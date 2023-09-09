@@ -4,8 +4,7 @@
 
 <h3 align="left">Currenty:</h3>
 
-* 	&#128200;Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
-*  	🏠 Living in **Milan** 
+* 	&#128200;Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science). 
 
 
 </div>
