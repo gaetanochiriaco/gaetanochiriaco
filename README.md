@@ -4,7 +4,7 @@
 
 
 * 	&#128200;Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
-* 	&#128200;Check out my [Portfolio](https://gaetanochiriaco.github.io/minimal-portfolio/)!
+*   📓Check out my [Portfolio](https://gaetanochiriaco.github.io/minimal-portfolio/)!
 
 
 </div>
