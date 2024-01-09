@@ -3,7 +3,7 @@
 <div align="left" style="margin-top:20px;">
 
 
-* 	&#128200;Pursuing a **Master's Degree** in **Data Science** @ [University of Milano-Bicocca](https://www.unimib.it/graduate/data-science).
+
 *   📓Check out my [Portfolio](https://gaetanochiriaco.github.io/minimal-portfolio/)!
 
 
